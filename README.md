@@ -7,7 +7,7 @@ This project consists of an interactive dashboard developed in Looker Studio to 
 
 The solution enables stakeholders to monitor training performance, territorial coverage, participant demographics, accreditation rates, and other operational indicators through a centralized dashboard, supporting data-driven decision-making.
 
-
+images/training-events-performance-dashboard.png
 
 ## Business Problem
 
