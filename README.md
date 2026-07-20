@@ -1,7 +1,7 @@
 # Training Events Performance Dashboard
 Interactive Looker Studio dashboard for monitoring training events, KPIs, and operational performance.
 
-## Overview
+## An overview of this project
 
 This project consists of an interactive dashboard developed in Looker Studio to monitor the performance of institutional training events across the country.
 
@@ -9,7 +9,7 @@ The solution enables stakeholders to monitor training performance, territorial c
 
 ![Training Events Dashboard](images/training-events-performance-dashboard.png)
 
-## Business Problem
+## The business problem we addressed
 
 The institution conducts training events across multiple locations, generating operational data from different trainers and training sessions.
 
@@ -17,7 +17,7 @@ Without a centralized reporting solution, monitoring participation, accreditatio
 
 The objective of this project was to transform dispersed operational data into a centralized Business Intelligence dashboard that provides real-time visibility into training performance through standardized KPIs and interactive visualizations.
 
-## My Role
+## My role in creating a solution
 
 Designed and developed the dashboard by preparing and validating data, defining KPIs, and creating interactive visualizations in Looker Studio.
 
