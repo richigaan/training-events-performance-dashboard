@@ -59,7 +59,11 @@ Some of the primary KPIs include:
 
 These metrics were selected to support operational monitoring, evaluate training effectiveness, and identify trends that could inform future planning and resource allocation.
 
-## Dashboard Preview
+## Dashboard Design
+
+The dashboard was designed to prioritize executive KPIs at the top, followed by geographic coverage, operational performance, demographic insights, temporal trends, and detailed institutional breakdowns.
+
+This layout enables stakeholders to move from high-level indicators to detailed operational analysis while maintaining an intuitive navigation flow.
 
 ## Dashboard Walkthrough
 
