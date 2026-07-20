@@ -1,7 +1,5 @@
-# training-events-performance-dashboard
-Interactive Looker Studio dashboard for monitoring training events, KPIs, and operational performance.
-
 # Training Events Performance Dashboard
+Interactive Looker Studio dashboard for monitoring training events, KPIs, and operational performance.
 
 ## Overview
 
