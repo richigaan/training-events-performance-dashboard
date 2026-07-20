@@ -95,8 +95,6 @@ Breakdowns by gender and other demographic variables provide additional context 
 
 ## Key Learnings
 
-## Key Learnings
-
 This project strengthened my understanding of dashboard design, KPI development, and data quality processes.
 
 It also reinforced the importance of data standardization and validation to ensure reliable reporting, while improving my ability to transform operational data into actionable business insights.
