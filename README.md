@@ -1,15 +1,27 @@
 # Training Events Performance Dashboard
 Interactive Looker Studio dashboard for monitoring training events, KPIs, and operational performance.
 
-## An overview of this project
+## Project Summary
+
+**Industry:** Public Sector
+
+**Tool:** Looker Studio
+
+**Dataset:** Google Sheets
+
+**Focus:** Business Intelligence
+
+**Skills:** Dashboard Design, KPI Development, Data Validation, Data Visualization
+
+## An overview of the project
 
 This project consists of an interactive dashboard developed in Looker Studio to monitor the performance of institutional training events across the country.
 
 The solution enables stakeholders to monitor training performance, territorial coverage, participant demographics, accreditation rates, and other operational indicators through a centralized dashboard, supporting data-driven decision-making.
 
-![Training Events Dashboard](images/training-events-performance-dashboard.png)
+![Dashboard Preview](images/training-events-performance-dashboard.png)
 
-## The business problem we addressed
+## The business problem
 
 The institution conducts training events across multiple locations, generating operational data from different trainers and training sessions.
 
@@ -19,13 +31,13 @@ The objective of this project was to transform dispersed operational data into a
 
 ## My role in creating a solution
 
-Designed and developed the dashboard by preparing and validating data, defining KPIs, and creating interactive visualizations in Looker Studio.
+Designed and developed this Business Intelligence solution, including data preparation, KPI definition, data validation, and interactive dashboard development in Looker Studio.
 
 My responsibilities also included supporting data quality processes, establishing reporting standards, and ensuring that the dashboard provided reliable operational insights for stakeholders.
 
-## Data Sources
+## Where does the data come from? 
 
-The dashboard integrates operational data collected through Google Sheets after each training event.
+The reporting solution integrates operational data collected through Google Sheets after each training event.
 
 Primary data included:
 
@@ -34,9 +46,9 @@ Primary data included:
 - Geographic information
 - Accreditation results
 - Attendance records
-- Institutional information
+- Information about participating institutions
 
-## Data Preparation
+## Data preparation phase
 
 Operational data submitted after each training event was validated and standardized to ensure consistency across records before being used for reporting.
 
@@ -46,7 +58,7 @@ This process helped maintain consistent reporting as new training events were co
 
 ## KPI Design
 
-The dashboard was designed around key performance indicators (KPIs) that provide stakeholders with a comprehensive view of training activities and their outcomes.
+The solution was designed around key performance indicators (KPIs) that provide stakeholders with a comprehensive view of training activities and their outcomes.
 
 Some of the primary KPIs include:
 
@@ -59,13 +71,13 @@ Some of the primary KPIs include:
 
 These metrics were selected to support operational monitoring, evaluate training effectiveness, and identify trends that could inform future planning and resource allocation.
 
-## Dashboard Design
+## Dashboard Design and Layout
 
 The dashboard was designed to prioritize executive KPIs at the top, followed by geographic coverage, operational performance, demographic insights, temporal trends, and detailed institutional breakdowns.
 
 This layout enables stakeholders to move from high-level indicators to detailed operational analysis while maintaining an intuitive navigation flow.
 
-## Dashboard Walkthrough
+## A Walkthrough
 
 ### Executive Summary
 
@@ -89,11 +101,11 @@ Breakdowns by gender and other demographic variables provide additional context 
 
 ## Technologies Used
 
-- Looker Studio
-- Google Sheets
-- SQL
+- **Looker Studio** — Dashboard development and data visualization.
+- **Google Sheets** — Operational data source and data management.
+- **SQL** — Basic calculated fields and reporting logic.
 
-## Key Learnings
+## My key learnings
 
 This project strengthened my understanding of dashboard design, KPI development, and data quality processes.
 
